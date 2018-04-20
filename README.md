@@ -28,5 +28,6 @@ $ python get.py
 2. Enter the details then click Next.
 3. Select "/home/user/arduino-esp32" from "Platform folder" dropdown. 
 4. Select the dev board you're using from "Board" drop-down.
+5. Sample config with ESP32 DOIT board ![Config](/config.png)
 
 Then have fun !
